@@ -3,5 +3,5 @@
 ### Running
 
 ```
-$ sbt "runMain com.imdb.analysis.TopTitles /path/to/imdb_dataset"
+$ sbt "runMain com.imdb.analysis.TopTitles /path/to/imdb_dataset /output/path"
 ```
